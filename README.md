@@ -9,3 +9,5 @@ Metric               | Score
 Mean Absolute Error  | 0.00
 Mean Squared Error   | 0.00
 R-Squared            | 1.00
+
+##### Accuracy = 100% #####
